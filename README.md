@@ -10,8 +10,13 @@ We originally collaborated using Google Drive and Google Colab. Feel free to che
 This repository contains the following files and directories:
 
 **GA_results/** - some saved adversarial attack examples from POBA-GA trials on the same input image with different perturbations
+
 **ckpts/** - the saved checkpoint file for POBA-GA (checkpoint is updated every generation in the algorithm)
-**sample_images/** - sample images used for algorithm testing
+
+**sample_images/** - a sample image used for initial algorithm testing
+
 **Batch_Test_GA.ipynb** - POBA-GA implementation
+
 **Deep_Search_Final.ipynb** - DeepSearch implementation
+
 **PSO.ipynb** - PSO implementation
